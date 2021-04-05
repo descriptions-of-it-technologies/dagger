@@ -22,6 +22,7 @@
 
 
 ## Documentation.
+* [Dagger.](https://dagger.dev/)
 
 
 
@@ -39,4 +40,19 @@
 
 
 
+## Dagger Supported Injection Types.
+* Constructor Injection.
+* File Injection.
+* Method Injection.
+
+
+
+## Constructor Injection.
+
+## File Injection.
+* fields not should be have private scope.
+
+## Method Injection.
+
 ## Help.
+
