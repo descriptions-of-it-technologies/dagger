@@ -50,7 +50,7 @@
 ## Constructor Injection.
 
 ## File Injection.
-* fields not should be have private scope.
+* fields not should be had private scope.
 
 ## Method Injection.
 
