@@ -47,12 +47,36 @@
 
 
 
+
+
 ## Constructor Injection.
+
+
+
+
 
 ## File Injection.
 * fields not should be had private scope.
+* Dagger does not support injection into private fields
+* Dagger does not support injection into static fields
+
+
+
+
 
 ## Method Injection.
+
+
+
+
+
+## Orders of injection.
+1. Constructor injection.
+2. Field injection.
+3. Method injection.
+
+
+
 
 ## Help.
 
